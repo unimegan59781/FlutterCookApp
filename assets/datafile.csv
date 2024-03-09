@@ -1,0 +1,86 @@
+1,2,10,You're cooking a meal for a guest,Are they Vegan?
+2,3,4,They're Vegan,Are they Gluten Free?
+3,44,6,They're Gluten Free and Vegan,Do they have a Nut allergy?
+4,5,14,They're Vegan,Do they eat Meat Alternatives?
+5,43,46,They eat Meat Alternatives,Do they like Quorn Vegan Nuggets?
+6,7,50,They're Gluten Free and Vegan,Do they like Spice?
+7,47,51,They're a Gluten Free Vegan and like Spice,Do they like Curry?
+8,53,49,They like Quorn Vegan Nuggets,Do they like Soft Food?
+9,55,54,They like Quorn Vegan Nuggets but are Lazy,Do they like Beans?
+10,11,24,They're not Vegan,Are they Vegetarian?
+11,13,12,They're Vegetarian,Do you have a Slow Cooker?
+12,15,57,They're Vegetarian,Do you have 30 Minutes to Cook?
+13,60,59,They're Vegetarian and you have a Slow Cooker,Do they like Pasta?
+14,16,61,They're Vegan but don't like Meat Alternatives,Do you own a Food Processor?
+15,21,18,They're Vegetarian but you only have 30 Minutes to Cook,Do they like Asian Cuisine?
+16,45,19,You own a Food Processor and they're Vegan,Do they like Pine Nuts?
+17,62,58,They're Vegetarian and Aren't Healthy but you only have 30 Minutes to Cook,Do you have an Oven?
+18,20,17,They're Vegetarian but you only have 30 Minutes to Cook,Are they trying to be Healthy?
+19,48,22,They're Vegan and you have a Food Processor but they don't like Pine Nuts,Do they like Tomatoes?
+20,64,63,They're Vegetarian and are trying to be Healthy but you only have 30 Minutes to Cook,Do they like Cheese?
+21,66,65,They're Vegetarian and like Asian Cuisine but you only have 30 Minutes to cook,Do they like Tofu?
+22,52,67,They're an incredibly picky Vegan but you own a Food Processor,Do they eat Mushrooms?
+23,26,25,They don't eat Red Meat,Do they prefer Lean Meat?
+24,30,27,They're not Vegan or Vegetarian,Are they Pescetarian?
+25,71,28,They don't eat Red or Lean Meat,Do they like Chinese Cuisine?
+26,69,68,They don't eat Red Meat but like Lean Meat,Is there Lots of you eating?
+27,29,23,They don't have any awkward dietary lifestyle choices,Do they eat Red Meat?
+28,70,85,They don't eat Red or Lean Meat and hate Chinese Cuisine,Do they like Deep Fried food?
+29,32,35,They're not Picky and like Red Meat,Do they like Beef?
+30,31,33,They're Pescetarian,Do they eat Shellfish?
+31,56,73,They eat Shellfish,Are you trying to Impress Them?
+32,36,72,They like Beef,Do they like their Steak Rare?
+33,75,39,They're Pescetarian but don't like Shellfish,Do they like Rice?
+34,37,44,They like Red Meat but not Beef or Lamb,Do they like Pork?
+35,38,34,They like Red Meat but not Beef,Do they like Lamb?
+36,76,74,They like their Steak Rare,Are they being Impatient?
+37,77,86,They like Pork,Do they like Garlic?
+38,81,41,They like Lamb,Do you have a BBQ or Grill?
+39,83,42,They're an Awkward Pescetarian that doesn't like Shellfish or Rice,Do they want a Home Comfort meal?
+40,79,78,They don't like Lamb on the Bone and you don't have a BBQ or Grill,Do they like Potatoes?
+41,80,40,They like Lamb but you don't have a BBQ or Grill,Do they like Meat on the Bone?
+42,84,82,They're an awkward Pescetarian that doesn't want a Home Comfort meal,Do they like Mexican Cuisine?
+43,9,8,They have great taste and like Vegan Nuggets,But are you very Lazy?
+44,1,1,Say they're too Awkward to cook for and to get a life,
+45,1,1,Cook Homemade Pesto Pasta,
+46,1,1,What's wrong with them?,
+47,1,1,Cook Chickpea Curry,
+48,1,1,Cook Homemade Tomato Soup,
+49,1,1,Cook Vegan Nuggets and Fondant Potatoes,
+50,1,1,Cook Syrian Falafel,
+51,1,1,Cook Lentil and Spiced Paprika Nut Chilli,
+52,1,1,Cook White Bean Puree with Garlic Sauteed Mushrooms,
+53,1,1,Bake Vegan Nuggets and Sweet Potato Mash,
+54,1,1,Bake Vegan Nuggets with Oven Chips and Peas,
+55,1,1,Bake Vegan Nuggets with Oven Chips and Beans,
+56,1,1,Cook Lobster Thermidor,
+57,1,1,Order Takeout,
+58,1,1,Give them a Pot Noodle,
+59,1,1,Slow-cook Vegetable Stew with Dumplings,
+60,1,1,Slow-cook Vegetable Lasagna,
+61,1,1,Time to Buy One,
+62,1,1,Put a Margherita Pizza in the Oven,
+63,1,1,Give them a Lettuce Leaf,
+64,1,1,Cook a Greek Salad,
+65,1,1,Cook Vegetable Miso Soup,
+66,1,1,Cook Chilli Tofu Zoodles,
+67,1,1,Give them a Glass of Water Blended with Ice,
+68,1,1,Cook Turkey Tetrazzini,
+69,1,1,Cook Roast Turkey,
+70,1,1,Cook Fried Chicken,
+71,1,1,Cook Hoisin Duck Wraps,
+72,1,1,Cook Well Done Bavette Steak with Chips alongside Tarragon & Mushroom Sauce,
+73,1,1,Poor Man's Vongole Rosso,
+74,1,1,Serve Carpaccio,
+75,1,1,Cook Pea and Asparagus Risotto with Cod Fillet,
+76,1,1,Give them a Gun and take them to a Farm,
+77,1,1,Cook Roast Rack of Pork with Garlic Stuffing,
+78,1,1,Cook Lamb and Lentil Curry,
+79,1,1,Cook a Shepherds Pie,
+80,1,1,Cook Roast Leg of Lamb in the Oven,
+81,1,1,Cook Lamb Koftas,
+82,1,1,Cook Pan Fried Salmon and Broccoli,
+83,1,1,Cook a Fish Pie,
+84,1,1,Cook Fish Tacos,
+85,1,1,Cook Chicken Enchiladas,
+86,1,1,Cook Pulled Pork,
